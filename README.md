@@ -2,6 +2,12 @@
 
 ### Um simples servlet POC com CRUD e uma classe simulando um Database
 
-Deploy on heroku and link soon
+You can check and test the application here: 
 
-Deploy no heroku disponibilizarei com link em breve
+A aplicação pode ser testada aqui:
+ 
+ - https://simple-servlet-poc.herokuapp.com/
+
+Deploy wihout Maven just deploying a war package at heroku in a Tomcat server
+
+Deploy feito sem Maven apenas fazendo o deploy de um war no heroku em uma server Tomcat
