@@ -1,4 +1,4 @@
-### A simple servlet POC with a CRUD and a class working as a simple Database
+### A simple servlet POC with a CRUD and a class working as a Database
 
 ### Um simples servlet POC com CRUD e uma classe simulando um Database
 
