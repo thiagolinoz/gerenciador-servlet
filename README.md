@@ -11,3 +11,8 @@ A aplicação pode ser testada aqui:
 Deploy wihout Maven just deploying a war package at heroku in a Tomcat server
 
 Deploy feito sem Maven apenas fazendo o deploy de um war no heroku em uma server Tomcat
+
+The application is only in Portuguese, but you can 
+ - listCompanies in here: https://simple-servlet-poc.herokuapp.com/listaEmpresas
+ - create a new company: https://simple-servlet-poc.herokuapp.com/formNovaEmpresa.jsp
+
